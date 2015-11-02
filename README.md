@@ -1,4 +1,4 @@
-BMI Calculate and Evaluateq
+BMI Calculate and Evaluate
 ==========================
 
 Made this one,
