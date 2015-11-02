@@ -14,7 +14,7 @@ If you don't - well: shit happens.
 
 class aPerson {
 
-	/* === ATTRIBUTES === */
+	/* === PROPERTIES === */
 	
 	public $height;
 	public $kg;
